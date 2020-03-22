@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>16.jpeg</filename>
+	<path>/home/nemath/data/train/16.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nutriDelite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>170</ymin>
+			<xmax>538</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>

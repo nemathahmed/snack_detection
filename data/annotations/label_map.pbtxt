@@ -1,0 +1,9 @@
+item {
+    id: 1
+    name: 'Knorr_Cup_Soup'
+}
+
+item {
+    id: 2
+    name: 'nutriDelite'
+}
